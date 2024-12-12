@@ -1,0 +1,558 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.home-container {
+  display: flex;
+  flex-grow: 1;
+  background-color: #1B1B1B;
+  width: 100%;
+  flex-direction: column;
+}
+
+.show-nav-bar {
+  display: none;
+}
+
+.responsive-language {
+  display: none;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.responsive-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* z-index: 10; */
+}
+
+.background-gradient {
+  opacity: 0.85;
+  background: linear-gradient(96deg, #161B1E 28.56%, #617784 96.5%);
+  mix-blend-mode: multiply;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.responsive-rti-image {
+  display: none;
+}
+
+a {
+  cursor: pointer;
+}
+
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: #fff;
+  color: #000;
+  padding: 8px 12px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+select:focus {
+  border-color: #3182ce;
+  /* Tailwind color */
+  outline: none;
+}
+
+option {
+  background-color: #fff;
+  /* Ensuring options have a consistent background */
+  color: #000;
+  /* Text color for options */
+}
+
+.service-pan-slide-item {
+  display: none;
+}
+
+.responsive-tire-change-human {
+  display: none;
+}
+
+.passenger-tire-item {
+  padding-top: 30px;
+}
+
+.responsive-passenger-tire-title {
+  display: none;
+}
+
+.responsive-passenger-tire-text {
+  display: none;
+}
+
+input::placeholder {
+  color: #000000;
+  /* Tailwind's gray-400 color */
+  font-family: "Inter" sans-serif;
+  font-style: Normal;
+  
+  /* Optional: to make the placeholder text italic */
+}
+.modal-input::placeholder{
+  font-family: "Inter" sans-serif;
+  font-style: Normal;
+  color: #ffffff;
+}
+.second-price-service-image {
+  display: none;
+}
+
+
+
+
+
+.custom-input {
+
+  height: 2px;
+  /* Height of each bar */
+  background: repeating-linear-gradient(90deg,
+      /* Gradient direction: left to right */
+      dimgrey 0,
+      /* Start with dimgrey color */
+      dimgrey 59px,
+      /* Bar width: 2px */
+      transparent 2px,
+      /* Start transparency right after the bar */
+      transparent calc(59px + 14px)
+      /* End transparency: bar width + spacing */
+    ) 0 0 / 480px 16px no-repeat;
+  /* Background size: total width and bar height */
+}
+
+
+.ok-icon>svg {
+  width: 128.95px;
+  height: 122.83px;
+}
+
+.slide-icon>svg {
+  width: 123px;
+  height: 123px;
+}
+
+.mpp-image-outback {
+  width: 176.52px;
+  height: 238px;
+}
+
+.mpp-image-outback>img {
+  width: 176.52px;
+  height: 238px;
+}
+
+
+.nav-for-slider .swiper-slide {
+  height: auto;
+  width: auto;
+  cursor: pointer;
+
+}
+
+.swiper-wrapper {
+  height: auto;
+}
+
+.nav-for-slider .swiper-slide img {
+  border: 2px solid transparent;
+  border-radius: 10px;
+
+}
+
+.nav-for-slider .swiper-slide-thumb-active img {
+
+  border-color: rgb(79 70 229);
+}
+
+.pdi-info-item-img>svg {
+  width: 97.68px;
+  height: 97.74px;
+}
+
+.dashed-line {
+  flex-grow: 1;
+  border-bottom: 1px dashed #ccc;
+  margin: 0 10px;
+}
+
+
+.form-radio {
+  appearance: none; /* Remove default styling */
+  width: 20px; /* Set width */
+  height: 20px; /* Set height */
+  border: 2px solid #73C018; /* Set border color */
+  border-radius: 50%; /* Make it circular */
+  position: relative; /* Position for inner circle */
+  background-color: transparent; /* Transparent background */
+  outline: none; /* Remove outline */
+}
+.form-radio:checked {
+  background-color: #73C018; /* Background color when checked */
+}
+.form-radio:checked::after {
+  content: ''; /* No inner circle */
+  background-color: #73C018;
+}
+
+/* CustomCalendar.module.css */
+
+.react-datepicker {
+  width: 100%;
+  border: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.react-datepicker__month-container {
+  width: 100%;
+}
+
+.react-datepicker__day {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.available-date {
+  background-color: #c6f6d5 !important; /* Tailwind green-200 */
+  color: #2f855a !important; /* Tailwind green-800 */
+}
+
+.unavailable-date {
+  background-color: #fed7d7 !important; /* Tailwind red-200 */
+  color: #c53030 !important; /* Tailwind red-800 */
+}
+
+.react-datepicker__navigation {
+  background: none;
+  border: none;
+}
+
+.react-datepicker__navigation-icon::before {
+  border-color: #4a5568 !important; /* Tailwind gray-700 */
+}
+
+.react-datepicker__header {
+  background: none;
+  border-bottom: none;
+}
+
+.react-datepicker__current-month {
+  font-weight: bold;
+}
+
+.react-datepicker__day--selected {
+  background-color: #68d391 !important; /* Tailwind green-300 */
+  color: white !important;
+}
+
+.react-datepicker__day--selected:hover,
+.react-datepicker__day--selected:focus {
+  background-color: #48bb78 !important; /* Tailwind green-400 */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+input:focus {
+  outline: none; /* Remove default outline */
+  box-shadow: none; /* Remove any box-shadow that may appear */
+}
+.nor-fl>svg{
+  border-radius: 50px;
+}
+/* In your CSS file (e.g., styles/globals.css) */
+@keyframes slide {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.slider {
+  display: flex;
+  animation: slide 20s linear infinite;
+}
+
+@media (max-width:1024px) {
+  @keyframes slide {
+    0% {
+      transform: translateX(60%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .slider {
+    display: flex;
+    animation: slide 40s linear infinite;
+  }
+}
+.partner-brand-img {
+  flex-shrink: 0;
+  width: auto; /* Adjust this as needed */
+  margin-right: 20px; /* Adjust spacing between images */
+
+}
+
+.y-scrollbar-hide {
+  overflow-y: hidden; /* Ensure vertical scrolling */
+}
+.swiper-pagination-fraction, .swiper-pagination-custom, .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal{
+  position: unset;
+  margin-top: 20px;
+}
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet{
+  border-radius: 50px;
+  width: 11px;
+  height: 11px;
+  /* background-color: white!important; */
+  background-color: #73c018 !important;
+}
+.swiper-pagination-bullet-active{
+}
+.swiper-pagination-bullet{
+  background-color: white !important;
+}
+.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after{
+  max-width: 24px !important;
+  max-height: 24px !important;
+  color: #FFFFFF;
+}
+.swiper-button-prev, .swiper-button-next{
+  color: #FFFFFF;
+  min-width: 24px;
+  min-height:  24px;
+}
+.pp-product-list-mpp-image-outback>img{
+  width: 176.52px;
+  height: 238px;
+}
+
+
+.swiper-wrapper {
+  height: max-content !important;
+ 
+  width: max-content;
+}
+
+.swiper-button-prev:after,
+.swiper-rtl .swiper-button-next:after {
+  content: "" !important;
+}
+
+.swiper-button-next:after,
+.swiper-rtl .swiper-button-prev:after {
+  content: "" !important;
+
+}
+
+.product-thumb .swiper-slide.swiper-slide-thumb-active>.slide\:border-indigo-600 {
+  --tw-border-opacity: 1;
+  border-color: rgb(79 70 229 / var(--tw-border-opacity));
+}
+/* .sc-fulCBj{
+  display: none;
+} */
+
+
+.dot-spinner {
+  --uib-size: 2.8rem;
+  --uib-speed: .9s;
+  --uib-color: #73C018;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: var(--uib-size);
+  width: var(--uib-size);
+}
+
+.dot-spinner__dot {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100%;
+  width: 100%;
+}
+
+.dot-spinner__dot::before {
+  content: '';
+  height: 20%;
+  width: 20%;
+  border-radius: 50%;
+  background-color: var(--uib-color);
+  transform: scale(0);
+  opacity: 0.5;
+  animation: pulse0112 calc(var(--uib-speed) * 1.111) ease-in-out infinite;
+  box-shadow: 0 0 20px rgba(18, 31, 53, 0.3);
+}
+
+.dot-spinner__dot:nth-child(2) {
+  transform: rotate(45deg);
+}
+
+.dot-spinner__dot:nth-child(2)::before {
+  animation-delay: calc(var(--uib-speed) * -0.875);
+}
+
+.dot-spinner__dot:nth-child(3) {
+  transform: rotate(90deg);
+}
+
+.dot-spinner__dot:nth-child(3)::before {
+  animation-delay: calc(var(--uib-speed) * -0.75);
+}
+
+.dot-spinner__dot:nth-child(4) {
+  transform: rotate(135deg);
+}
+
+.dot-spinner__dot:nth-child(4)::before {
+  animation-delay: calc(var(--uib-speed) * -0.625);
+}
+
+.dot-spinner__dot:nth-child(5) {
+  transform: rotate(180deg);
+}
+
+.dot-spinner__dot:nth-child(5)::before {
+  animation-delay: calc(var(--uib-speed) * -0.5);
+}
+
+.dot-spinner__dot:nth-child(6) {
+  transform: rotate(225deg);
+}
+
+.dot-spinner__dot:nth-child(6)::before {
+  animation-delay: calc(var(--uib-speed) * -0.375);
+}
+
+.dot-spinner__dot:nth-child(7) {
+  transform: rotate(270deg);
+}
+
+.dot-spinner__dot:nth-child(7)::before {
+  animation-delay: calc(var(--uib-speed) * -0.25);
+}
+
+.dot-spinner__dot:nth-child(8) {
+  transform: rotate(315deg);
+}
+
+.dot-spinner__dot:nth-child(8)::before {
+  animation-delay: calc(var(--uib-speed) * -0.125);
+}
+
+@keyframes pulse0112 {
+  0%,
+  100% {
+    transform: scale(0);
+    opacity: 0.5;
+  }
+
+  50% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* From Uiverse.io by vinodjangid07 */ 
+.Btn {
+  width: 45px;
+  height: 45px;
+  background: linear-gradient(#73C018, #73C018);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  cursor: pointer;
+  position: fixed;
+  bottom: 30px;
+  right: 15px;
+  border: none;
+}
+
+.arrow path {
+  fill: white;
+}
+
+.text {
+  font-size: 0.7em;
+  width: 100px;
+  position: absolute;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: -18px;
+  opacity: 0;
+  transition-duration: .7s;
+}
+
+.Btn:hover .text {
+  opacity: 1;
+  transition-duration: .7s;
+}
+
+.Btn:hover .arrow {
+  animation: slide-in-bottom .7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+@keyframes slide-in-bottom {
+  0% {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.sc-kMribo{
+  display: none !important;  
+}
+.sc-dWZqqJ{
+  display: none;
+}
+.sc-fifgRP{
+  display: none;
+}
+.iframe-height{
+  max-height: calc(100vh - 200px);
+}

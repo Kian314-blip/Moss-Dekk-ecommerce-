@@ -1,0 +1,5012 @@
+@media (max-width:1913px) {
+    .responsive-header {
+        padding-right: 180px;
+        padding-left: 165px;
+    }
+
+    .it-service-pan-list {
+        padding-left: 18px;
+        padding-right: 18px;
+    }
+
+    .it-service-cross-bar {
+        width: 74%;
+        left: 75px;
+    }
+
+    .show-tyre-status-pan {
+        padding-left: 180px;
+        padding-right: 180px;
+    }
+
+    .report-product-pan {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    /* .mmp-product-show-fourth{
+        display: none;
+     } */
+    /* .mmp-product-show-fifth{
+        display: none;
+     } */
+    .re-main-list {
+        justify-content: space-between;
+    }
+}
+
+@media (max-width:1919px) {
+    .about-feature-pan {
+        padding-left: 160px;
+        padding-right: 160px;
+        justify-content: center;
+    }
+}
+
+@media (max-width:1870px) {
+    .service-cross-bar {
+        width: 62%;
+    }
+
+    .about-founder-pan {
+        margin-right: 150px;
+        margin-left: 150px;
+    }
+
+    .report-main-infor {
+        padding-left: 180px;
+    }
+
+    .bar {
+        padding-left: 150px;
+    }
+
+    .three-color-bar {
+        padding-right: 50px;
+    }
+
+    .three-color-bar>div {
+        width: 33.333%;
+    }
+
+    .products-pan {
+        padding-left: 80px;
+        padding-right: 80px;
+        /* align-items: center; */
+    }
+
+    .main-product-pan {
+        justify-content: center; 
+    }
+}
+
+@media (max-width:1840px) {
+    .tire-finder-pan {
+        padding-left: 150px;
+    }
+
+    .tire-size-guide-pan {
+        padding-right: 135px;
+    }
+}
+@media (max-width:1844px) {
+    .header-nav-item {
+        padding-right: 120px;
+        padding-left: 120px;
+    }
+}
+@media (max-width:1824px) {
+
+    .contact-pan {
+        padding-left: 78px;
+        padding-right: 78px;
+    }
+    .header-nav-item {
+        padding-right: 105px;
+        padding-left: 105px;
+    }
+}
+
+@media (max-width:1800px) {
+    .header-nav-item {
+        padding-right: 90px;
+        padding-left: 90px;
+    }
+}
+
+@media(max-width:1788px) {
+    .show-tyre-status-pan {
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+    .header-nav-item {
+        padding-right: 70px;
+        padding-left: 70px;
+    }
+}
+
+@media (max-width:1740px) {
+    .header-nav-item {
+        padding-right: 90px;
+        padding-left: 90px;
+    }
+
+    .responsive-header {
+        padding-right: 150px;
+        padding-left: 135px;
+    }
+
+    .responsive-tire-image {
+        height: auto;
+    }
+
+    .tire-finder-pan {
+        padding-left: 100px;
+    }
+
+    .tire-size-guide-pan {
+        padding-right: 84px;
+    }
+
+    .service-cross-bar {
+        width: 58%;
+    }
+
+    .get-in-touch {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .main-footer {
+        padding-left: 100px;
+    }
+
+    .about-founder-pan {
+        margin-right: 130px;
+        margin-left: 14%;
+        width: 1200px;
+        height: 532px;
+
+    }
+
+    .afp-wo-image {
+        position: unset;
+        padding: 8px 45.46px 0.15px 21px;
+    }
+
+    .afp-main-out {
+        justify-content: unset;
+    }
+
+    .abp-background-color {
+        height: 532px;
+        width: 1200px;
+    }
+
+    .abp-background-color>img {
+        height: 100%;
+    }
+
+    .afpwi-pan>div {
+        width: 359.54px;
+        height: 526.85px;
+    }
+
+    .afpwi-pan>img {
+        width: 351.54px;
+        height: 518.84px;
+    }
+
+    .afpc-content {
+        width: 483px;
+    }
+
+    .afpc-content>p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5rem;
+    }
+
+    .report-main-infor {
+        padding-left: 150px;
+    }
+
+    .report-main-infor-content {
+        padding-right: 100px;
+    }
+
+    .report-info-logo>div {
+        margin-left: 50px;
+    }
+
+    .bar {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+}
+@media(max-width:1703px){
+    .header-nav-item {
+        padding-right: 60px;
+        padding-left: 60px;
+    }
+}
+@media(max-width:1690px) {
+    .show-tyre-status-pan {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    .header-nav-item {
+        padding-right: 90px;
+        padding-left: 90px;
+    }
+    .responsive-header{
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+}
+
+@media (max-width:1625px) {
+    .tire-finder-pan {
+        padding-left: 80px;
+    }
+
+    .tire-size-guide-pan {
+        padding-right: 55px;
+    }
+
+    .tsi-input-header {
+        width: 60.77px;
+        padding: 6.5px 22.38px;
+    }
+
+    .tsi-input-tag {
+        width: 380.63px;
+        left: 55px;
+    }
+
+    .tsi-header {
+        /* width: 100px; */
+    }
+
+    .tsi-footer {
+        width: 434.92px;
+    }
+
+    .tire-change-human {
+        right: 80px;
+    }
+
+    .isplcm-tit {
+        width: 120px;
+    }
+
+    .isplcm-text {
+        width: 120px;
+    }
+
+    .isplcm-tit-first {
+        width: 100px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-first {
+        text-align: center;
+        width: 100px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-second {
+        width: 100px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-second {
+        text-align: center;
+        width: 100px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-third {
+        width: 105px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-third {
+        text-align: center;
+        width: 105px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-fourth {
+        width: 100px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-fourth {
+        text-align: center;
+        width: 100px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-fifth {
+        width: 100px;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .isplcm-text-fifth {
+        text-align: center;
+        width: 100px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-sixth {
+        width: 177px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-sixth {
+        text-align: center;
+        width: 116px;
+        font-size: 10px;
+    }
+
+
+    .ispl-item-number>div {
+        width: 32px;
+        height: 32px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .ispl-content>svg {
+        width: 27px !important;
+        height: 27px !important;
+    }
+
+    .ispl-content {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ispl-item {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ispl-content-main {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .it-service-cross-bar {
+        width: 81%;
+    }
+
+    .it-service-pan {
+        padding-top: 29px;
+        padding-bottom: 18px;
+        font-size: 24px;
+    }
+
+    .it-service-text {
+        padding-top: 15px;
+        font-size: 14px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .it-service-title {
+        font-size: 24px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .it-service-pan-list {
+        padding-top: 37px;
+    }
+
+    .it-service-cross-bar {
+        top: 66px;
+    }
+
+    .testimonials-pan-list-item {
+        width: 500px;
+    }
+
+    .tplirc-text {
+        width: 250px;
+        height: auto;
+        font-size: 14px;
+    }
+
+    .testimonials-pan {
+        padding-left: 50px;
+        /* padding-right: 50px; */
+    }
+
+    .tetp-left-arrow {
+        left: 183px;
+    }
+
+    .tetp-right-arrow {
+        right: 183px;
+    }
+
+    .main-footer {
+        padding-left: 80px;
+        padding-right: 50px;
+    }
+
+    .connection-info {
+        padding-right: 150px;
+    }
+
+    .management {
+        padding-right: 70px;
+    }
+
+    .dekkhotell {
+        padding-right: 70px;
+    }
+
+    .tyre-shop {
+        padding-right: 70px;
+    }
+
+    .psp-list-pan {
+        flex-wrap: wrap;
+    }
+
+    .price-service-pan {
+        padding-left: 144px;
+        padding-right: 180px;
+        padding-top: 28px;
+        padding-bottom: 38px;
+        gap: 28px;
+    }
+
+    .psp-title>p {
+        font-size: 30px;
+    }
+
+    .price-faqs-pan {
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+
+    .contact-pan-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contact-pan-title {
+        text-align: center;
+    }
+
+    .control-report-dekk-panel {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .din-bil-contain-car {
+        padding-left: 90px;
+        padding-right: 130px;
+    }
+
+    .din-green-car-first {
+        padding-left: 105px;
+    }
+
+    .mmp-product-show-fifth {
+        display: none;
+    }
+
+    .re-main-list {
+        justify-content: space-between;
+    }
+}
+
+@media (max-width:1600px) {
+    .report-main-infor {
+        padding-left: 100px;
+
+    }
+
+    .bar {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .stsp-real-pan {
+        justify-content: center;
+    }
+
+    .tyre-info-pan {
+        padding-top: 25.05px;
+        padding-left: 12px;
+        padding-right: 10.84px;
+        padding-bottom: 8px;
+    }
+
+    .tyre-figures>p {
+        font-size: 12px;
+        line-height: 1rem;
+    }
+
+    .tyre-figures {
+        gap: 20px;
+        padding-bottom: 4.45px;
+    }
+
+    .tyre-exact-figures {
+        width: 231.16px;
+        height: 100.29px;
+        margin-bottom: 7.45px;
+    }
+
+    .tyre-exact-figures>img {
+        width: 231.16px;
+        height: 100.29px;
+    }
+
+    .figures-tyre-width-pan {
+        padding: 8.13px 4.71px;
+    }
+
+    .figures-tyre-width-pan>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .figures-tyre-width-pan>p>span {
+        font-size: 16px;
+    }
+
+    .dekk-info-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .dekk-info-title {
+        padding-bottom: 10.99px;
+    }
+
+    .dekk-info-brand>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .dekk-infor-brand-detail>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .dekk-infor-brand-detail-default {
+        padding: 10px 23px;
+
+    }
+
+    .dekk-infor-brand-detail-default>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .dekk-info-pan {
+        padding-bottom: 11.56px;
+    }
+
+    .dekk-status-check-item>p {
+        font-size: 14px;
+    }
+
+    .real-pan-car-image {
+        padding-top: 99px;
+        padding-bottom: 164px;
+    }
+
+    .real-pan-car-image>div {
+        width: 328.44px;
+        height: 559px;
+    }
+
+    .real-pan-car-image>div>img {
+        width: 328.44px;
+        height: 559px;
+    }
+
+    .real-pan-tyre-status-first {
+        margin-right: 13.77px;
+    }
+
+    .real-pan-tyre-status-second {
+        margin-left: 13.79px;
+    }
+}
+
+@media (max-width:1552px) {
+    .service-cross-bar {
+        width: 54%;
+    }
+
+    .tire-change-human {
+        right: 160px;
+    }
+
+    .tire-change-pan {
+        padding-top: 14px;
+        padding-left: 220px;
+        padding-bottom: 29px;
+    }
+
+    .tcp-title {
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 2.25rem;
+    }
+
+    .tcp-text {
+        font-size: 0.875rem;
+        font-weight: 400;
+        line-height: 1.25rem;
+        padding-top: 32px;
+        padding-bottom: 7px;
+        width: 499px;
+    }
+
+    .tire-change-pan-list-first {
+        margin-top: 7px;
+        height: auto;
+    }
+
+    .tire-change-pan-list {
+        margin-top: 14px;
+        height: auto;
+    }
+
+    .tire-change-pan-list-big {
+        margin-top: 14px;
+    }
+
+    .tire-change-pan-list-large {
+        margin-top: 14px;
+    }
+
+    .tcpl-text {
+        font-size: 14px;
+        width: 498px;
+    }
+
+    .tcpl-text-large {
+        height: 45px;
+        font-size: 14px;
+        width: 498px;
+        line-height: 1.25rem;
+    }
+
+    .tcpl-text-small {
+        line-height: 1.25rem;
+        font-size: 14px;
+        width: 498px;
+        height: auto;
+    }
+
+    .tcpl-text-big {
+        font-size: 14px;
+        line-height: 1.25rem;
+        width: 498px;
+        height: auto;
+    }
+
+    .tcpl-item {
+        top: 5px;
+    }
+
+    .tire-change-pan-list-big {
+        height: auto;
+
+    }
+
+    .tire-change-human>img {
+        width: 378px;
+        height: 542px;
+    }
+}
+
+@media (max-width:1680px) {
+    .header-nav-item {
+        padding-right: 70px;
+        padding-left: 70px;
+    }
+}
+
+@media (max-width:1640px) {
+    .header-nav-item {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+}
+
+@media (max-width:1520px) {
+    .tsg-text {
+        width: 550px;
+    }
+
+    .get-in-touch {
+        padding-left: 120px;
+        padding-right: 120px;
+        padding-top: 26px;
+        padding-bottom: 26px;
+    }
+
+    .gint-title {
+        font-size: 24px;
+    }
+
+    .gint-text {
+        font-size: 16px;
+        width: 350px;
+    }
+
+    .gint-input {
+        width: 600px;
+    }
+
+    .gint-input>input {
+        width: 600px;
+    }
+
+    .gint-send-btn {
+        left: 398.06px;
+    }
+}
+
+@media (max-width:1610px) {
+    .header-nav-item {
+        padding-right: 70px;
+        padding-left: 70px;
+    }
+
+    .header-nav-item>a {
+        font-size: 16px;
+    }
+
+    .header-nav-item>div {
+        font-size: 16px;
+    }
+
+    .responsive-header {
+        padding-right: 80px !important;
+        padding-left: 80px !important;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .header-username {
+        font-size: 16px;
+
+    }
+
+    .responsive-image-text-content {
+        padding-top: 220px;
+    }
+
+}
+
+@media (max-width:1537px) {
+    .nav-item-tag {
+        padding-right: 30px;
+    }
+
+    .testimonials-pan {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .tetp-left-arrow {
+        left: -6px;
+    }
+
+    .tetp-right-arrow {
+        right: -6px;
+    }
+
+    .testimonials-pan-list {
+        padding-left: 35px;
+        padding-right: 35px;
+        width: auto;
+    }
+
+    .partner-brand {
+        padding: 20px 150px;
+    }
+
+    .last-footer {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+
+    .main-product-list {
+        gap: 23px;
+    }
+
+    .pp-product-list {
+        row-gap: 20px;
+        column-gap: 16px;
+    }
+
+    .pp-product-list-mpp-image {
+        width: 196px;
+        height: 185px;
+    }
+
+    .pp-product-list-mpp-main-info {
+        width: 196px;
+        height: 261px;
+    }
+
+    .pp-product-list-mpp-image-outback>img {
+        width: 100px !important;
+        height: 134px !important;
+    }
+
+    .pp-product-list-mpp-main-info {
+        padding: 11px 4px 18px 4px;
+    }
+
+    .pp-product-list-mmp-exact-info {
+        height: 80px;
+    }
+
+    .pp-product-list-mmp-exact-info>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .pp-product-list-mmp-figures {
+        margin-top: 20px;
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .pp-product-list-mmp-show-tyre-infor {
+        margin-top: 9px;
+    }
+
+    .pp-product-list-mmp-show-tyre-infor-detail-svg {
+        padding: 2.5px;
+    }
+
+    .pp-product-list-mmp-show-tyre-infor-detail-svg>svg {
+        width: 15px;
+        height: 15px;
+    }
+
+    .pp-product-list-mmp-show-tyre-infor-detail-figures {
+        padding: 3.5px 5.5px;
+    }
+
+    .pp-product-list-mmp-price {
+        padding-top: 9px;
+    }
+
+    .pp-product-list-mmp-price>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .pp-product-list-mmp-price>span {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .pp-product-list-mmp-btn-group {
+        padding-top: 9px;
+        gap: 6px;
+    }
+
+    .pp-product-list-mmp-buy-btn {
+        padding: 8.5px 29.5px;
+    }
+
+    .pp-product-list-mmp-buy-btn>p {
+        font-size: 12px;
+        line-height: 1rem;
+    }
+
+    .pp-product-list-mmp-detail-btn {
+        padding: 8.5px 17.5px;
+    }
+
+    .pp-product-list-mmp-detail-btn>p {
+        font-size: 12px;
+        line-height: 1rem;
+    }
+
+    .main-product-pan {
+        gap: 23px;
+
+    }
+
+    .category-control-main-cat-info {
+        gap: 3px;
+    }
+
+    .main-cat-search-title {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .mcscat-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .mcscat-select-tag {
+        width:100%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 9px;
+        padding-right: 7px;
+    }
+
+    .mcscat-select-tag-item {
+        padding: 7px 10px;
+    }
+
+    .mcscat-select-tag-item>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .mpp-category-control-pan {
+        gap: 3px;
+    }
+
+    .cat-info-item-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .cat-info-input>select {
+        height: 44px;
+        padding: 10px;
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .cat-info-input-special {
+        height: 44px;
+    }
+
+    .cat-info-input-special>div {
+        max-width: 217px;
+        padding: 5px 10px;
+        height: 44px;
+    }
+
+    .cat-info-input-special>div>div>span {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .cat-info-input-special>div>div {
+        padding: 5px 10px;
+        height: 34px !important;
+    }
+
+    .cat-info-input-special>div>div>button {
+        height: 24px;
+    }
+
+    .cat-info-search-btn {
+        padding: 12px 57.5px;
+    }
+
+    .cat-info-search-btn>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .cat-info-reset-btn {
+        padding: 10px 13px;
+    }
+
+    .products-pan {
+        padding-top: 27px;
+        padding-bottom: 59px;
+    }
+
+    .ppt-main-title>p {
+        font-size: 30px;
+        line-height: 2.25rem
+    }
+
+    .ppt-main-title {
+        padding-right: 99px;
+    }
+
+    .ppt-cat-type-title>p {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .products-pan-title {
+        padding-bottom: 34px;
+    }
+
+    .products-total-amount {
+        padding-bottom: 0px;
+    }
+
+    .products-total-amount>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+}
+
+@media (max-width:1483px) {
+    .main-footer {
+        padding-left: 80px;
+        padding-right: 20px;
+    }
+
+    .modal-report-licenseplate-title {
+        gap: 80px !important;
+    }
+
+    .connection-info {
+        padding-right: 120px;
+    }
+
+    .management {
+        padding-right: 50px;
+    }
+
+    .dekkhotell {
+        padding-right: 50px;
+    }
+
+    .tyre-shop {
+        padding-right: 50px;
+    }
+
+    .about-founder-pan {
+        margin-left: 150px;
+        margin-right: 100px;
+    }
+
+    .guide-pan {
+        padding-left: 130px;
+    }
+
+    .report-main-infor {
+        padding-left: 80px;
+        padding-right: 80px;
+        justify-content: space-between;
+
+    }
+
+    .bar {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    /* .report-main-infor-content{
+        padding-right: 13px;
+    }
+    .report-info-logo > div{
+        margin-left: 52px;
+    } */
+    .rmi-content-title>p {
+        font-size: 24px;
+    }
+
+    .report-main-infor-content {
+        gap: 30px;
+
+    }
+
+    .rmic-text-item>p {
+        font-size: 18px;
+    }
+
+    .report-info-logo>div {
+        width: 209px;
+        height: 114px;
+    }
+
+    .report-info-logo>div>img {
+        width: 209px;
+        height: 114px;
+    }
+
+    .report-licenseplate-content-header {
+        width: 74px;
+        height: 94px;
+        padding: 13.5px 20px;
+        gap: 13px;
+    }
+
+    .norway-flag {
+        width: 34px;
+        height: 26px;
+    }
+
+    .n-letter {
+        width: 24px;
+        height: 28px;
+    }
+
+    .licenseplate-input-pan {
+        width: 268px;
+        height: 94px;
+        padding: 36px 14px 26px 19px;
+    }
+
+    .licenseplate-input-pan>input {
+        font-size: 38px;
+    }
+
+    .licenseplate-border {
+        padding-left: 17px;
+        padding-right: 14px;
+        gap: 20px;
+        overflow: hidden;
+
+    }
+}
+
+@media (max-width:1432px) {
+    .header-nav-item {
+        padding-right: 80px;
+        padding-left: 75px;
+    }
+
+    .responsive-header {
+        padding-right: 120px;
+        padding-left: 105px;
+    }
+
+    .responsive-itc-ad {
+        width: 362px;
+        font-size: 36px;
+        line-height: 40px;
+        font-weight: 600;
+    }
+
+    .responsive-itc-text {
+        width: 362px;
+        font-size: 14px;
+        line-height: 20px;
+        flex-shrink: 0;
+        font-weight: 400;
+        padding-top: 22px;
+        padding-bottom: 33px;
+    }
+
+    .responsive-itc-button {
+        width: 141px;
+        padding: 6px 37.5px;
+    }
+
+    .responsive-itc-button>div {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+
+    .service-item {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .service-cross-bar {
+        width: 68%;
+        left: 231px;
+    }
+
+    .about-us-text {
+        padding-right: 140px;
+        padding-left: 140px;
+    }
+
+}
+
+@media(max-width:1390px) {
+    .main-footer {
+        padding-left: 50px;
+        padding-right: 20px;
+    }
+
+    .connection-info {
+        padding-right: 100px;
+    }
+
+    .management {
+        padding-right: 30px;
+    }
+
+    .dekkhotell {
+        padding-right: 30px;
+    }
+
+    .tyre-shop {
+        padding-right: 30px;
+    }
+
+    .about-founder-pan {
+        margin-left: 80px;
+        margin-right: 100px;
+    }
+}
+
+@media (max-width:1350px) {
+    .tsi-input-header {
+        width: 48.77px;
+        padding: 6.5px 18.38px;
+    }
+
+    .tsi-input-tag {
+        width: 300.63px;
+        left: 46px;
+    }
+
+    .tsi-header {
+        /* width: 100px; */
+    }
+
+    .tsi-footer {
+        width: 346.92px;
+    }
+
+    .tmc-header {
+        position: absolute;
+    }
+
+    .tmc-text {
+        position: absolute;
+        top: 92px;
+    }
+
+    .responsive-tire-style-input {
+        margin-top: 90px;
+    }
+
+    .tsi-footer-go-btn {
+        width: 82.72px;
+        height: 37.53px;
+        padding: 8.76px 30.36px;
+    }
+
+    .tsi-footer-go-btn>div {
+        font-size: 14px;
+    }
+
+    .price-faqs-pan {
+        gap: 20px;
+        padding-left: 80.5px;
+        /* padding-right: 230.5px;   */
+        padding-top: 25px;
+        padding-bottom: 100px;
+        /* flex-direction: column; */
+    }
+
+    .guide-pan {
+        padding-left: 80px;
+        gap: 65px;
+    }
+}
+
+@media (max-width:1340px) {
+    .pdi-info-item-img>svg {
+        width: 79px !important;
+        height: 79px !important;
+    }
+}
+
+@media (max-width:1332px) {
+    .header-nav-item {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .responsive-header {
+        padding-right: 93px;
+        padding-left: 75px;
+    }
+
+    .tire-change-human {
+        right: 100px;
+    }
+
+    .tire-change-pan {
+        padding-top: 14px;
+        padding-left: 120px;
+        padding-bottom: 29px;
+    }
+
+    .about-founder-pan {
+        margin-left: 140px;
+        margin-right: 120px;
+        width: 1000px;
+    }
+
+    .abp-background-color {
+        height: 532px;
+        width: 1000px;
+    }
+
+    .abp-background-color>img {
+        height: 100%;
+    }
+
+    .afpwi-pan>div {
+        width: 359.54px;
+        height: 526.85px;
+    }
+
+    .afpwi-pan>img {
+        width: 351.54px;
+        height: 518.84px;
+    }
+
+    .afpc-content {
+        width: 483px !important;
+    }
+
+    .afpc-content>p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.25rem;
+    }
+
+    .about-founder-pan {
+        margin-left: 160px;
+        margin-right: 100px;
+    }
+
+    .mmp-product-show-fourth {
+        display: none;
+    }
+
+    .re-main-list {
+        justify-content: space-between;
+    }
+}
+
+@media (max-width:1280px) {
+    .info-item-text {
+        font-size: 14px !important;
+    }
+
+    .management-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .management-text {
+        font-size: 14px;
+    }
+
+    .dekkhotell-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .dekkhotell-text {
+        font-size: 14px;
+    }
+
+    .tyre-shop-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .tyre-shop-text {
+        font-size: 14px;
+    }
+
+    .contact-info-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .contact-info-text {
+        font-size: 14px;
+    }
+
+    .connection-info {
+        padding-right: 63px;
+    }
+
+    .main-footer {
+        padding-top: 37px;
+        padding-left: 83px;
+        padding-bottom: 62px;
+    }
+
+    .management {
+        padding-right: 13px;
+    }
+
+    .dekkhotell {
+        padding-right: 46px;
+    }
+
+    .tyre-shop {
+        padding-right: 46px;
+    }
+
+    .contact-info-list {
+        width: 204px;
+    }
+
+    .management-list {
+        width: 150px;
+    }
+
+    .dekkhotell-list {
+        width: 150px;
+    }
+
+    .tyre-shop-list {
+        width: 150px;
+    }
+}
+
+@media (max-width:1274px) {
+    .nav-item-tag {
+        padding-right: 16px;
+    }
+
+    .responsive-header {
+        padding-right: 50px !important;
+        padding-left: 50px !important;
+    }
+
+    .header-nav-item>a {
+        font-weight: 500;
+    }
+
+    .header-nav-item>div {
+        font-weight: 500;
+    }
+
+    .header-logo {
+        width: 74px;
+        height: 40px !important;
+    }
+
+    .header-content {
+        padding-top: 31px;
+        padding-bottom: 9px;
+    }
+
+    .responsive-image-text-content {
+        padding-top: 199px;
+        padding-left: 111px;
+    }
+
+    .tsg-title {
+        font-size: 24px;
+    }
+
+    .tsg-text {
+        width: 411px;
+        font-size: 14px;
+    }
+
+    .passenger-tire-list {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .passenger-tire-title {
+        font-size: 20px;
+    }
+
+    .passenger-tire-text {
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .passenger-tire {
+        padding-top: 25px;
+        padding-bottom: 16px;
+    }
+
+    .about-choose-us {
+        padding-left: 180px;
+    }
+
+    .control-report-dekk-panel {
+        padding-left: 80px;
+        padding-right: 80px;
+        padding-bottom: 36px;
+    }
+
+    .din-bil-contain-car {
+        padding-left: 70px;
+        padding-right: 90px;
+    }
+
+    .din-green-car-first {
+        padding-left: 105px;
+    }
+}
+
+@media (max-width:1250px) {
+    .about-founder-pan {
+        margin-left: 130px;
+        margin-right: 100px;
+    }
+
+    .stsp-status-guide {
+        flex-direction: column;
+        gap: 18px;
+        padding-top: 34px;
+    }
+}
+
+@media (max-width:1207px) {
+    .service-cross-bar {
+        width: 65%;
+    }
+
+    .testimonials-pan-list {
+        padding-left: 35px;
+        padding-right: 35px;
+        width: auto;
+    }
+
+    .tplic-info>img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .tplic-info-tick-back {
+        width: 22px;
+        height: 22px;
+    }
+
+    .tplic-info-tick>div>svg {
+        width: 11px !important;
+        height: 10px !important;
+    }
+
+    .tplic-info-tick {
+        top: 5.86px;
+        left: 6.01px;
+    }
+
+    .testimonials-pan-list-item {
+        width: 424px;
+        height: 232px;
+        padding: 20px;
+    }
+
+    .tplic-info {
+        width: 100px;
+    }
+
+    .partner-brand {
+        padding: 7px 81px;
+    }
+
+    .about-founder-pan {
+        margin-left: 100px;
+        margin-right: 120px;
+        width: 1000px;
+    }
+}
+
+@media(max-width:1150px) {
+    .about-founder-pan {
+        margin-left: 100px;
+        margin-right: 80px;
+        width: 900px;
+    }
+
+    .abp-background-color {
+        height: 532px;
+        width: 900px;
+    }
+
+    .afpwi-pan {
+        width: 351.53px;
+    }
+
+    .about-choose-us {
+        padding-left: 130px;
+    }
+}
+
+@media (max-width:1130px) {
+    .tsi-input-header {
+        width: 46.77px;
+        height: 37px;
+        padding: 6.5px 17.38px;
+    }
+
+    .tsi-input-tag {
+        width: 255.63px;
+        height: 36.95px;
+        left: 36.95px;
+    }
+
+    .tsi-input-tag>select {
+        height: 36.95px;
+        padding: 3.47px 6.32px;
+    }
+
+    .tsi-header {
+        /* width: 100px; */
+    }
+
+    .tsi-footer {
+        width: 290.92px;
+    }
+
+    .tmc-header {
+        font-size: 24px;
+    }
+
+    .tmc-text {
+        position: absolute;
+        top: 92px;
+        font-size: 14px;
+    }
+
+    .responsive-tire-style-input {
+        margin-top: 90px;
+    }
+
+    .tsi-footer-go-btn {
+        width: 82.72px;
+        height: 37.53px;
+        padding: 8.76px 30.36px;
+    }
+
+    .tsi-footer-go-btn>div {
+        font-size: 14px;
+    }
+
+    .tsg-image>img {
+        height: 210px;
+    }
+
+    .tsg-help-btn {
+        width: 86.74px;
+        height: 37.53px;
+        padding: 8.76px 9.37px;
+    }
+
+    .tsg-help-btn>div {
+        font-size: 14px;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .tire-change-human {
+        right: 80px;
+    }
+
+    .tire-change-pan {
+        padding-left: 80px;
+    }
+
+    .get-in-touch {
+        padding-left: 75px;
+        padding-right: 81px;
+        padding-top: 26px;
+        padding-bottom: 26px;
+    }
+
+    .gint-text {
+        width: 285px;
+    }
+
+    .gint-input {
+        width: 483px;
+        height: 55px;
+    }
+
+    .gint-input>input {
+        width: 483px;
+        height: 55px;
+    }
+
+    .gint-send-btn {
+        left: 347.06px;
+        height: 55px;
+        width: 137px;
+    }
+
+    .gint-send-btn>div {
+        font-size: 16px;
+    }
+
+    .guide-pan {
+        padding-left: 80px;
+        padding-right: 80px;
+        gap: 38px;
+        padding-top: 32px;
+        padding-bottom: 72px;
+    }
+
+    .gpc-image {
+        width: 640px;
+        height: 320px;
+        margin-bottom: 58px;
+    }
+
+    .gpc-image>img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .gpc-main-text {
+        width: 640px;
+        font-size: 20px;
+        line-height: 1.75rem;
+    }
+
+    .guide-pan-section-list>a {
+        font-size: 16px;
+    }
+
+    .gpc-title>p {
+        font-size: 24px;
+    }
+
+    .gpc-title {
+        padding-bottom: 29px;
+    }
+
+    .guide-pan-section {
+        padding-top: 65px;
+    }
+
+    .gpc-extra-text {
+        font-size: 16px;
+        line-height: 1.5rem;
+    }
+
+    .report-main-infor {
+        justify-content: unset;
+        padding-top: 63px;
+        padding-bottom: 23px;
+    }
+
+    .report-main-infor-content {
+        padding-right: 13px;
+    }
+
+    .report-info-logo>div {
+        margin-left: 52px;
+        width: 209px !important;
+        height: 114px !important;
+    }
+
+    .download-main-pan {
+        padding: 17.14px 15px 25.5px 34px;
+        gap: 137.87px;
+        align-items: flex-end;
+    }
+}
+
+@media (max-width:1110px) {
+    .service-cross-bar {
+        width: 61%;
+    }
+
+    .service-text {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:1090px) {
+    .about-founder-pan {
+        margin-left: 80px;
+        margin-right: 80px;
+        width: 864px;
+    }
+
+    .abp-background-color {
+        height: 532px;
+        width: 864px;
+    }
+
+    .abp-background-color>img {
+        height: 100%;
+    }
+
+    .afpwi-pan>div {
+        width: 359.54px;
+        height: 526.85px;
+    }
+
+    .afpwi-pan>img {
+        width: 351.54px;
+        height: 518.84px;
+    }
+
+    .afpc-content {
+        width: 438px !important;
+    }
+
+    .afpc-content>p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.25rem;
+    }
+
+    .afpc-title>p {
+        font-size: 24px;
+    }
+
+    .bar {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .products-pan {
+        padding-left: 21px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width:1080px) {
+    .nav-item-tag {
+        padding-right: 15px;
+    }
+
+    .header-nav-item {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .header-nav-item>a {
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    .header-nav-item>div {
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    .header-username {
+        font-size: 15px;
+    }
+
+    .responsive-tire-image {
+        height: 480px;
+    }
+
+    .info-item-text {
+        font-size: 14px !important;
+    }
+
+    .management-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .management-text {
+        font-size: 14px;
+    }
+
+    .dekkhotell-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .dekkhotell-text {
+        font-size: 14px;
+    }
+
+    .tyre-shop-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .tyre-shop-text {
+        font-size: 14px;
+    }
+
+    .contact-info-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .contact-info-text {
+        font-size: 14px;
+    }
+
+    .connection-info {
+        padding-right: 63px;
+    }
+
+    .main-footer {
+        padding-top: 37px;
+        padding-left: 70px;
+        padding-bottom: 62px;
+    }
+
+    .management {
+        padding-right: 13px;
+    }
+
+    .dekkhotell {
+        padding-right: 46px;
+    }
+
+    .tyre-shop {
+        padding-right: 46px;
+    }
+
+    .contact-info-list {
+        width: 204px;
+    }
+
+    .management-list {
+        width: 134px;
+    }
+
+    .dekkhotell-list {
+        width: 116px;
+    }
+
+    .tyre-shop-list {
+        width: 107px;
+    }
+}
+
+@media (max-width:1024px) {
+    .header-nav-item {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .fcip-item>svg path {
+        /* stroke: #AAAAAA !important; */
+        color: orange;
+    }
+
+
+    .responsive-header {
+        padding-right: 60px;
+        padding-left: 58px;
+    }
+
+    .service-item-tag>div {
+        /* width: 47.59px; */
+        /* height: 47.59px; */
+        font-size: 16px;
+    }
+
+    .sit-tag {
+        width: 47.59px;
+        height: 47.59px;
+    }
+
+    .service-item-tag>div>svg {
+        width: 29px;
+        height: 29px;
+    }
+
+    .service-item {
+        padding-left: 128.72px;
+        padding-right: 136.16px;
+    }
+
+    .service-cross-bar {
+        top: 22px;
+        left: 182px;
+        width: 62.5%;
+    }
+
+    .service-text {
+        padding-bottom: 14.37px;
+        padding-top: 0;
+    }
+
+    .tire-change-human {
+        right: 56px;
+    }
+
+    .tire-change-pan {
+        padding-left: 80px;
+    }
+
+    .it-service-pan-list {
+        padding-left: 80px;
+        padding-right: 70px;
+    }
+
+    .ispl-item-number>div {
+        width: 28px;
+        height: 28px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .ispl-content>svg {
+        width: 24px !important;
+        height: 24px !important;
+    }
+
+    .it-service-cross-bar {
+        left: 142px;
+        width: 68%;
+        top: 68px;
+    }
+
+    .ispl-item {
+        padding-right: 34px;
+    }
+
+    .testimonials-pan {
+        padding-top: 33px;
+    }
+
+    .testimonials-pan-title {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .testimonials-pan-text {
+        font-size: 14px;
+    }
+
+    .last-footer {
+        padding-left: 81px;
+        padding-right: 81px;
+    }
+
+    .main-background-image {
+        height: 336px;
+    }
+
+    .main-back-title {
+        font-size: 24px;
+    }
+
+    .main-back-pan {
+        gap: 21px;
+    }
+
+    .main-back-url-info>p {
+        font-size: 16px;
+    }
+
+    .main-back-url-info {
+        margin-bottom: 107px;
+    }
+
+    .about-us-text {
+        padding-left: 82px;
+        padding-right: 80px;
+        padding-bottom: 42px;
+    }
+
+    .about-us-text>p {
+        font-size: 14px;
+        text-align: justify;
+        line-height: 1.25rem;
+        font-style: normal;
+        font-weight: 400;
+    }
+
+    .about-choose-us {
+        padding: 27.15px 80px 17px 80px;
+    }
+
+    .about-choose-us-title>p {
+        font-size: 24px;
+        line-height: 2rem;
+    }
+
+    .about-choose-us-text>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+        font-style: normal;
+        text-align: justify;
+    }
+
+    .about-choose-us-text {
+        width: 100% !important;
+
+    }
+
+    .psp-list-pan {
+        gap: 80px;
+    }
+
+    .price-faqs-pan {
+        gap: 41px;
+        padding-left: 80.5px;
+        padding-right: 230.5px;
+        padding-top: 25px;
+        padding-bottom: 100px;
+        flex-direction: column;
+    }
+
+    .price-faqs-pan-title>p {
+        font-size: 24px;
+    }
+
+    .collapse-item-header>p {
+        font-size: 20px;
+
+    }
+
+    .collapse-item-main-content>p {
+        font-size: 14px;
+    }
+
+    .collapse-item-main-content {
+        padding-right: 33px;
+    }
+
+    .contact-pan {
+        padding-top: 40px;
+        gap: 20px;
+        padding-bottom: 39px;
+    }
+
+    .contact-pan-content {
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 61px;
+    }
+
+    .cpc-question {
+        gap: 19px;
+    }
+
+    .cpc-question-title>p {
+        font-size: 24px;
+        width: 208px;
+    }
+
+    .cpc-question-content-text>p {
+        font-size: 14px;
+        width: 323px;
+    }
+
+    .cpc-question-contnet {
+        gap: 39px;
+    }
+
+    .cpc-question-content-item {
+        gap: 10px;
+    }
+
+    .cpc-information-input {
+        gap: 37px;
+    }
+
+    .contact-pan-title {
+        text-align: unset;
+    }
+
+    .show-tyre-status-pan {
+        padding-top: 29px;
+        padding-bottom: 20px;
+    }
+
+    .show-tyre-status-pan-title {
+        padding-bottom: 45px;
+    }
+
+    .show-tyre-status-pan-title>p {
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+    }
+
+    .control-report-dekk-panel {
+        padding-top: 20px;
+    }
+
+    .crdp-title>p {
+        font-size: 24px;
+        line-height: 2rem;
+    }
+
+    .crdp-title {
+        padding-bottom: 34px;
+    }
+
+    .crdp-small-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .din-bil-contain-car {
+        padding-left: 139px;
+        padding-right: 168px;
+    }
+
+    .bremse-title {
+        padding-top: 6px;
+        padding-bottom: 12px;
+        padding-left: 24px;
+    }
+
+    .bremse-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .din-bil-pan {
+        padding-top: 71px;
+        align-items: flex-end;
+    }
+
+    .din-bil-contain-car {
+        padding-left: 97px;
+        padding-top: 8px;
+        padding-right: 67px;
+    }
+
+    .din-bil-tit {
+        padding-bottom: 34px;
+        height: 70px;
+    }
+
+    .din-bil-tit>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .din-color-bar {
+        padding-right: 29px;
+    }
+
+    .ideal-distance-title {
+        padding-top: 5px;
+    }
+
+    .ideal-distance-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .din-green-car-first {
+        padding-top: 11px;
+        padding-left: 95px;
+    }
+
+    .ideal-distance-text {
+        padding-top: 2px;
+        padding-bottom: 20px;
+    }
+
+    .ideal-distance-text>p {
+        width: 230px;
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .vannplanning-title {
+        padding-top: 7px;
+        padding-bottom: 6px;
+    }
+
+    .vannplanning-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .vt-tit>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .vt-tit {
+        padding-top: 8px;
+    }
+
+    .vt-green-car {
+        padding-top: 26px;
+        padding-left: 12px;
+    }
+
+    .three-color-bar {
+        margin-top: 25px;
+        padding-right: 29px;
+    }
+
+    .monster-title {
+        padding-top: 8px;
+        padding-bottom: 10px;
+        padding-left: 27px;
+    }
+
+    .monster-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .ok-icon {
+        padding-top: 38.35px;
+        padding-bottom: 40.22px;
+        padding-left: 27px;
+        padding-right: 57.08px;
+    }
+
+    .ok-icon>svg {
+        width: 76.03px !important;
+        height: 72.43px !important;
+    }
+
+    .ok-icon>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .slitasje-title {
+        padding-top: 3px;
+        padding-bottom: 7px;
+        padding-left: 25px;
+    }
+
+    .slitasje-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .slide-icon {
+        padding: 38px 54px 18px 23px;
+    }
+
+    .slide-icon>svg {
+        width: 72px !important;
+        height: 72px !important;
+    }
+
+    .crdp-note {
+        padding-top: 16px;
+    }
+
+    .crdp-not-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .crdp-status-item>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .crdp-status-item {
+        align-items: center;
+    }
+
+    .control-report-pan-bar {
+        display: block !important;
+    }
+
+    .download-pan {
+        padding-top: 56.32px;
+    }
+
+    .dmp-text {
+        width: 272px;
+    }
+
+    .dmp-text {
+        font-size: 24px;
+        line-height: 2rem;
+    }
+
+    .dmp-btn-group {
+        gap: 7px;
+    }
+
+    .dmp-download-btn>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .dmp-print-btn>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .download-bar {
+        display: none;
+    }
+
+    .report-product-pan {
+        padding-top: 52.68px;
+        padding-bottom: 45px;
+    }
+
+    .report-product-title {
+        padding-bottom: 14px;
+    }
+
+    .report-product-title>p {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .re-list-title {
+        padding-bottom: 10px;
+    }
+
+    .re-list-title>p {
+        font-size: 20px;
+        line-height: 1.75rem;
+    }
+}
+
+@media (max-width:1023px) {
+    .guide-pan {
+        padding-left: 80px;
+        padding-right: 80px;
+        gap: 18px;
+        flex-direction: column;
+        padding-top: 32px;
+        padding-bottom: 72px;
+    }
+
+    .gpc-image {
+        width: 640px;
+        height: 320px;
+        margin-bottom: 58px;
+    }
+
+    .gpc-image>img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .gpc-main-text {
+        width: 640px;
+        font-size: 20px;
+        line-height: 1.75rem;
+    }
+
+    .guide-pan-section-list>a {
+        font-size: 16px;
+    }
+
+    .guide-pan-section-list {
+        display: none;
+    }
+
+    .gpc-title>p {
+        font-size: 24px;
+    }
+
+    .gpc-title {
+        padding-bottom: 29px;
+    }
+
+    .guide-pan-section {
+        padding-top: 0px;
+        width: 640px;
+
+    }
+
+    .gpc-extra-text {
+        font-size: 16px;
+        line-height: 1.5rem;
+    }
+
+    .show-tyre-status-pan {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .tyre-status-bar {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .stsp-status-guide {
+        display: none;
+    }
+
+    .real-pan-car-image>div {
+        width: auto;
+        height: auto;
+    }
+}
+
+@media (max-width:1018px) {
+    .it-service-pan-list {
+        overflow: scroll;
+        width: 100%;
+
+    }
+
+    .it-service-cross-bar {
+        width: 700px;
+    }
+
+    .isplcm-tit-first {
+        min-width: 100px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-first {
+        text-align: center;
+        min-width: 100px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-second {
+        min-width: 100px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-second {
+        text-align: center;
+        min-width: 100px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-third {
+        min-width: 105px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-third {
+        text-align: center;
+        min-width: 105px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-fourth {
+        min-width: 100px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-fourth {
+        text-align: center;
+        min-width: 100px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-fifth {
+        min-width: 100px;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .isplcm-text-fifth {
+        text-align: center;
+        min-width: 100px;
+        font-size: 10px;
+    }
+
+    .isplcm-tit-sixth {
+        min-width: 177px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .isplcm-text-sixth {
+        text-align: center;
+        min-width: 116px;
+        font-size: 10px;
+    }
+
+    .it-service-pan-slide-item {
+        display: inline-flex !important;
+        margin-top: 24px;
+        margin-bottom: 38px;
+    }
+
+    .partner-brand {
+        width: 100%;
+        /* overflow: scroll; */
+        padding: 14px 36.5px;
+    }
+
+    .partner-brand-img>img {
+        max-width: 130px !important;
+    }
+
+    .afpwi-pan>div {
+        width: 315.23px;
+        height: 481.65px;
+    }
+
+    .afpwi-pan>img {
+        width: 308.21px;
+        height: 474.33px;
+    }
+
+    .abp-background-color {
+        height: 1048px;
+        opacity: 0.6;
+        width: 800px;
+    }
+
+    .about-founder-pan {
+        height: auto;
+    }
+
+    .afp-main-out {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .afp-content {
+        padding-top: 27px;
+        padding-left: 9px;
+        padding-right: 7px;
+        padding-bottom: 36.27px;
+    }
+
+    .abp-background-color>img {
+        height: 1048px;
+    }
+
+    .afp-wo-image {
+        padding-right: 0px;
+    }
+
+    .about-founder-pan {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .price-service-pan {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    .collapse-item-main-content {
+        width: auto;
+        padding-right: 0;
+    }
+
+    .report-main-infor {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .report-main-infor-content {
+        order: 2;
+        /* padding-right: 30px; */
+    }
+
+    .report-licenseplate {
+        order: 1;
+        margin-right: 80px;
+    }
+
+    .report-info-logo {
+        order: 3;
+        margin-top: 20px;
+    }
+
+    .report-info-logo>div {
+        margin-left: 0;
+    }
+
+    .report-product-pan {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+@media (max-width:998px) {
+    .tire-finder-pan {
+        padding-left: 40px;
+    }
+
+    .tire-size-guide-pan {
+        padding-right: 15px;
+    }
+
+    .tire-change-human {
+        right: 20px;
+    }
+
+    .tire-change-pan {
+        padding-left: 25px;
+    }
+
+    .testimonials-pan-list {
+        width: 100%;
+        overflow: scroll;
+        overflow-y: hidden; 
+        padding-left: 17px;
+        padding-right: 17px;
+    }
+
+    .tetp-left-arrow {
+        display: none;
+    }
+
+    .tetp-right-arrow {
+        display: none;
+    }
+
+    .tpli-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .testimonials-pan-list-item {
+        padding: 13.75px 36px;
+        width: 342px;
+        height: 356px;
+    }
+
+    .tplic-info {
+        height: 100px;
+    }
+
+    .info-item-text {
+        font-size: 14px !important;
+    }
+
+    .management-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .management-text {
+        font-size: 14px;
+    }
+
+    .dekkhotell-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .dekkhotell-text {
+        font-size: 14px;
+    }
+
+    .tyre-shop-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .tyre-shop-text {
+        font-size: 14px;
+    }
+
+    .contact-info-title {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .contact-info-text {
+        font-size: 14px;
+    }
+
+    .connection-info {
+        padding-right: 20px;
+    }
+
+    .main-footer {
+        padding-top: 37px;
+        padding-left: 70px;
+        padding-bottom: 62px;
+    }
+
+    .management {
+        padding-right: 0px;
+    }
+
+    .dekkhotell {
+        padding-right: 10px;
+    }
+
+    .tyre-shop {
+        padding-right: 9px;
+    }
+
+    .contact-info-list {
+        width: 204px;
+    }
+
+    .management-list {
+        width: 134px;
+    }
+
+    .dekkhotell-list {
+        width: 116px;
+    }
+
+    .tyre-shop-list {
+        width: 107px;
+    }
+
+    .header-nav-item {
+        display: none;
+    }
+
+    .responsive-header {
+        padding-right: 130px;
+        padding-left: 105px;
+    }
+
+    .header-search-icon {
+        display: none;
+    }
+
+    .select-language {
+        display: none;
+    }
+
+    .responsive-language {
+        display: flex !important;
+        margin-right: 10px;
+    }
+
+    .header-username {
+        display: none;
+    }
+
+    .show-nav-bar {
+        display: flex !important;
+        margin-left: 5px;
+    }
+
+    .header-content {
+        justify-content: space-between;
+    }
+}
+
+@media (max-width:965px) {
+    .about-founder-pan {
+        margin-left: 90px;
+        margin-right: 100px;
+    }
+}
+
+@media (max-width:950px) {
+    .header-nav-item {
+        padding-right: 20px;
+        padding-left: 25px;
+    }
+
+    .responsive-header {
+        padding-right: 30px;
+        padding-left: 25px;
+    }
+
+    .abp-background-color {
+        height: 1048px;
+        opacity: 0.6;
+        width: 700px;
+    }
+
+    .about-founder-pan {
+        width: 82%;
+    }
+
+    .about-founder-pan {
+        margin-left: 120px;
+        margin-right: 100px;
+    }
+
+    .control-report-dekk-panel {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+@media (max-width:900px) {
+    .tire-finder-pan {
+        flex-direction: column;
+    }
+
+    .tire-finder-pan {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .tire-size-guide-pan {
+        padding-right: 0px;
+        padding-top: 0px;
+    }
+
+    .tsi-input-header {
+        width: 46.77px;
+        height: 37px;
+        padding: 6.5px 17.38px;
+    }
+
+    .tsi-input-tag {
+        width: 93%;
+        height: 36.95px;
+        left: 36.95px;
+    }
+
+    .tsi-input-tag>select {
+        height: 36.95px;
+        padding: 3.47px 6.32px;
+    }
+
+    .tsi-header {
+        /* width: 100px; */
+    }
+
+    .tsi-footer {
+        width: auto;
+    }
+
+    .tmc-header {
+        font-size: 24px;
+    }
+
+    .tmc-text {
+        position: absolute;
+        top: 92px;
+        font-size: 14px;
+    }
+
+    .responsive-tire-style-input {
+        margin-top: 90px;
+    }
+
+    .tsi-footer-go-btn {
+        width: 82.72px;
+        height: 37.53px;
+        padding: 8.76px 30.36px;
+    }
+
+    .tsi-footer-go-btn>div {
+        font-size: 14px;
+    }
+
+    .tsg-image>img {
+        height: 210px;
+    }
+
+    .tsg-help-btn {
+        width: 86.74px;
+        height: 37.53px;
+        padding: 8.76px 9.37px;
+    }
+
+    .tsg-help-btn>div {
+        font-size: 14px;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .tsg-title {
+        margin: 0;
+    }
+
+    .tsg-image {
+        margin: 0;
+    }
+
+    .tsg-text {
+        margin: 0;
+        width: 400px;
+    }
+
+    .service-cross-bar {
+        width: 58%;
+    }
+
+    .tire-change-human {
+        display: none;
+    }
+
+    .responsive-tire-change-human {
+        display: block !important;
+    }
+
+    .responsive-tire-change-human>img {
+        width: 450px;
+        height: 600px;
+    }
+
+    .tire-change-pan {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .tire-change-pan-list {
+        width: auto;
+    }
+
+    .tire-change-pan-list-big {
+        width: auto;
+    }
+
+    .tire-change-pan-list-large {
+        width: auto;
+    }
+
+    .tire-change-pan-list-first {
+        width: auto;
+    }
+
+    .about-founder-pan {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .price-faqs-pan {
+        padding-left: 50px;
+        padding-right: 50PX;
+    }
+
+    .mmp-product-show-third {
+        display: none;
+    }
+
+    .re-main-list {
+        justify-content: space-around;
+    }
+
+    .pp-product-list {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width:853px) {
+    .header-nav-item>a {
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .header-nav-item>div {
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .responsive-header {
+        padding-right: 30px;
+        padding-left: 25px;
+    }
+
+    .responsive-header {
+        width: 100%;
+    }
+
+    .header-content {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .header-username {
+        font-size: 13px;
+    }
+
+    .responsive-tire-image {
+        height: 410px;
+    }
+
+    .responsive-image-text-content {
+        padding-top: 135px;
+        padding-left: 80px;
+    }
+
+    .service-item {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .service-cross-bar {
+        left: 106px;
+        width: 74.5%;
+    }
+
+    .get-in-touch {
+        padding-left: 10px;
+        padding-right: 20px;
+    }
+
+    .main-footer {
+        padding-left: 15px;
+    }
+
+    .abp-background-color {
+        height: 1048px;
+        opacity: 0.6;
+        width: 600px;
+    }
+
+    .about-founder-pan {
+        width: 70%;
+    }
+
+    .about-founder-pan {
+        margin-left: 120px;
+        margin-right: 100px;
+    }
+
+    .report-licenseplate {
+        order: 1;
+        margin-right: 40px;
+    }
+
+    .report-info-logo {
+        order: 3;
+        margin-top: 25px;
+    }
+
+    .report-info-logo>div {
+        margin-left: 0;
+    }
+
+    .stsp-real-pan {
+        display: -webkit-box;
+        width: 100%;
+        overflow: scroll;
+        padding: 10px 15px;
+    }
+
+    .download-main-pan {
+        gap: 80px;
+    }
+
+}
+
+@media (max-width:834px) {
+    .cancel-btn>svg {
+        width: 24px !important;
+        height: 24px !important;
+    }
+}
+
+@media (max-width:802px) {
+    .report-main-infor {
+        padding-top: 11px;
+        padding-bottom: 8px;
+    }
+
+    .report-licenseplate-title {
+        margin: 0;
+
+    }
+
+    .report-licenseplate {
+        gap: 10px;
+    }
+
+    .report-main-infor-content {
+        margin-top: 25px;
+        gap: 14px;
+        margin-right: 57px;
+        padding: 0;
+    }
+
+    .din-bil-contain-car {
+        padding-left: 40px;
+    }
+
+    .din-green-car-first {
+        padding-left: 20px;
+    }
+
+    .dmp-text {
+        font-size: 20px;
+    }
+
+    .download-main-pan {
+        gap: 0px;
+    }
+
+    .vt-green-car {
+        margin-left: -55px;
+    }
+}
+
+@media (max-width:800px) {
+    .about-founder-pan {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+}
+
+@media (max-width:796px) {
+    .header-nav-item>a {
+        font-size: 11px;
+    }
+
+    .header-nav-item>div {
+        font-size: 11px;
+    }
+
+    .header-username {
+        font-size: 11px;
+    }
+
+    .responsive-header {
+        padding-right: 10px;
+        padding-left: 5px;
+    }
+
+    .header-nav-item {
+        padding-right: 0px;
+        padding-left: 10px;
+    }
+
+    .tire-finder-pan {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .get-in-touch {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .gint-header {
+        gap: 0px;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .gint-title {
+        width: 100%;
+        text-align: center;
+    }
+
+    .gint-text {
+        width: 80%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .main-footer {
+        flex-direction: column;
+        padding-left: 200px;
+        padding-right: 200px;
+        padding-top: 15px;
+
+    }
+
+    .responsive-footer-header {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 32.46px;
+    }
+
+    .responsive-footer-header>.connection-info {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .responsive-footer-middle {
+        width: 100%;
+        justify-content: center;
+        padding-bottom: 16px;
+    }
+
+    .responsive-footer-end {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .contact-pan {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+@media (max-width:768px) {
+    .about-us-title {
+        padding-top: 0px;
+        padding-bottom: 18px;
+    }
+
+    .abp-background-color {
+        height: 1048px;
+        opacity: 0.6;
+        width: 500px;
+    }
+
+    .about-founder-pan {
+        width: 70%;
+    }
+
+    .afpc-content {
+        width: 327px !important;
+    }
+
+    .about-founder-pan {
+        margin-left: 120px;
+        margin-right: 100px;
+    }
+
+    .first-price-service-image {
+        display: none;
+    }
+
+    .second-price-service-image {
+        display: block !important;
+    }
+
+    .contact-pan-title {
+        text-align: center;
+    }
+
+    .contact-pan-content {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .cpc-iip-list {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cpc-iip-list>div>input ::placeholder {
+        font-size: 14px;
+    }
+
+    .placeholder-text {
+        ::placeholder {
+            font-size: 14px;
+        }
+    }
+
+    .responsive-cpc-iip-list {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .responsive-cpc-iip-list-item {
+        width: 334px;
+    }
+
+    .cpc-infor-confirm-btn {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .guide-pan {
+        padding-left: 80px;
+        padding-right: 80px;
+        gap: 18px;
+        flex-direction: column;
+        padding-top: 32px;
+        padding-bottom: 72px;
+    }
+
+    .gpc-image {
+        width: 500px;
+        height: 320px;
+        margin-bottom: 58px;
+    }
+
+    .gpc-image>img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .gpc-main-text {
+        width: 500px;
+        font-size: 20px;
+        line-height: 1.75rem;
+    }
+
+    .guide-pan-section-list>a {
+        font-size: 16px;
+    }
+
+    .guide-pan-section-list {
+        display: none;
+    }
+
+    .gpc-title>p {
+        font-size: 24px;
+    }
+
+    .gpc-title {
+        padding-bottom: 29px;
+    }
+
+    .guide-pan-section {
+        padding-top: 0px;
+        width: 500px;
+
+    }
+
+    .gpc-extra-text {
+        font-size: 16px;
+        line-height: 1.5rem;
+    }
+}
+
+@media (max-width:695px) {
+    .tire-finder-pan {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .tsg-help-btn {
+        display: none;
+    }
+
+    .tsg-text-pan {
+        width: 100%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .tsgtp-pan {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .tsg-title {
+        width: 100%;
+        text-align: center;
+    }
+
+    .tsg-text {
+        text-align: center;
+        width: 100%;
+    }
+
+    .tmc-text {
+        width: 100%;
+    }
+
+    .tmc-header {
+        width: 100%;
+    }
+
+    .service-item {
+        padding-left: 19px;
+        padding-right: 19px;
+        overflow: scroll;
+    }
+
+    .service-cross-bar {
+        left: 132px;
+        width: 700px;
+    }
+
+    .service-item-tag {
+        min-width: 180px;
+    }
+
+    .service-pan-slide-item {
+        display: inline-flex !important;
+    }
+
+    .service-pan {
+        padding-bottom: 38px;
+    }
+
+    .testimonials-pan-list {
+        padding-left: 70px;
+    }
+
+    .main-footer {
+        flex-direction: column;
+        padding-left: 150px;
+        padding-right: 150px;
+
+    }
+
+    .about-founder-pan {
+        margin-left: 12%;
+        margin-right: 100px;
+    }
+
+    .report-main-infor {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
+
+@media (max-width:675px) {
+    .header-search-icon {
+        padding-right: 7px;
+    }
+
+    .header-shopping-cart {
+        margin-right: 9px;
+    }
+
+    .header-username {
+        padding-right: 7px;
+    }
+
+    .about-us-text {
+        padding-left: 32px;
+        padding-right: 30px;
+        padding-bottom: 42px;
+    }
+
+    .about-us-text>p {
+        font-size: 14px;
+        text-align: justify;
+        line-height: 1.25rem;
+        font-style: normal;
+        font-weight: 400;
+    }
+
+    .main-product-pan {
+        flex-direction: column;
+    }
+
+    .mpp-category-control-pan {
+        order: 1;
+    }
+
+    .main-ppp-pan {
+        order: 2;
+        align-items: center;
+    }
+
+    .mcscat-select-tag {
+        width: 100%;
+    }
+
+    .cat-info-input-special {
+        max-width: unset;
+        width: 100%;
+    }
+
+    .cat-info-input-special>div {
+        max-width: unset;
+        width: 100%;
+    }
+
+    .cat-info-btn-group {
+        justify-content: flex-end;
+    }
+
+    .pp-product-list {
+        /* grid: unset;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; */
+    }
+
+    .main-cat-search-title>p {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .category-control-main-cat-info {
+        gap: 16px;
+    }
+
+    .mcscat-title>p {
+        font-size: 16px;
+        line-height: 1.5rem;
+    }
+
+    .mpp-category-control-pan {
+        gap: 16px;
+    }
+
+    .cat-info-item-title>p {
+        font-size: 16px;
+        line-height: 1.75rem;
+    }
+
+    .mcscat-select-tag {
+        padding: 5px 8px 5px 10px;
+    }
+
+    .mcscat-select-tag-item {
+        width: 100px;
+        text-align: center;
+    }
+
+    .mcscat-select-tag-item>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .cat-info-input>select {
+        padding: 12px 13px 12px 10px;
+    }
+
+    .cat-info-search-btn {
+        padding: 14px 113.5px;
+        width: 264px;
+    }
+
+    .cat-info-reset-btn {
+        padding: 14px 13px;
+    }
+
+    .main-product-pan {
+        gap: 41px;
+    }
+
+    .products-total-amount {
+        padding-bottom: 14px;
+    }
+}
+
+@media (max-width:650px) {
+
+
+    .responsive-tire-change-human>img {
+        width: 300px;
+        height: 450px;
+    }
+
+    .last-footer {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .main-back-url-info {
+        margin-bottom: 50px;
+    }
+
+    .main-back-pan {
+        gap: 13px;
+    }
+
+    .abp-background-color {
+        width: 400px;
+    }
+
+    .about-founder-pan {
+        width: 67%;
+    }
+
+    .about-founder-pan {
+        margin-left: 20%;
+        margin-right: 100px;
+    }
+
+    .guide-pan {
+        padding-left: 40px;
+        padding-right: 40px;
+        gap: 18px;
+        flex-direction: column;
+        padding-top: 32px;
+        padding-bottom: 72px;
+    }
+
+    .gpc-image {
+        width: 500px;
+        height: 320px;
+        margin-bottom: 58px;
+    }
+
+    .gpc-image>img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .gpc-main-text {
+        width: 500px;
+        font-size: 20px;
+        line-height: 1.75rem;
+    }
+
+    .guide-pan-section-list>a {
+        font-size: 16px;
+    }
+
+    .guide-pan-section-list {
+        display: none;
+    }
+
+    .gpc-title>p {
+        font-size: 24px;
+    }
+
+    .gpc-title {
+        padding-bottom: 29px;
+    }
+
+    .guide-pan-section {
+        padding-top: 0px;
+        width: 500px;
+
+    }
+
+    .gpc-extra-text {
+        font-size: 16px;
+        line-height: 1.5rem;
+    }
+
+    .crdp-main-pan {
+        flex-direction: column;
+    }
+
+    .crdp-main-pan-bremse {
+        width: 100%;
+    }
+
+    .crdp-main-pan-monster {
+        width: 100%;
+    }
+
+    .control-report-dekk-panel {
+        padding-top: 4px;
+        padding-bottom: 28px;
+    }
+
+    .control-report-dekk-panel>p {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .crdp-title {
+        padding-bottom: 11px;
+    }
+
+    .crdp-small-title {
+        padding-bottom: 13px;
+    }
+
+    .crdp-small-title>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .bremse-title {
+        padding-top: 5px;
+        padding-bottom: 9px;
+        padding-left: 19px;
+    }
+
+    .din-bil-pan {
+        padding-top: 18px;
+    }
+
+    .din-bil-tit {
+        padding-bottom: 20px;
+        height: auto;
+    }
+
+    .dbcc-car {
+        padding: 0;
+    }
+
+    .din-bil-contain-car>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .din-bil-contain-car {
+        padding-left: 7.45%;
+        padding-right: 6.47%;
+        padding-top: 0px;
+    }
+
+    .din-bil-text {
+        padding: 0;
+    }
+
+    .din-bil-text>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .crdp-main-pan-bremse {
+        border-right: none;
+    }
+
+    .din-color-bar {
+        padding: 0;
+    }
+
+    .ideal-distance-title {
+        padding-top: 17px;
+    }
+
+    .din-green-car-first {
+        padding-top: 9px;
+        padding-bottom: 16px;
+    }
+
+    .ideal-distance-text {
+        padding-bottom: 16px;
+        width: 204px;
+    }
+
+    .ideal-distance-text>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .vannplanning-title {
+        padding-top: 6px;
+        padding-bottom: 5px;
+    }
+
+    .vt-tit {
+        padding-top: 6px;
+        padding-bottom: 9px;
+    }
+
+    .three-color-bar {
+        margin-top: 15px;
+        margin-bottom: 19px;
+        border-bottom: 1px solid #AAAAAA;
+        padding: 0;
+    }
+
+    .monster-title {
+        padding: 15px 0 0 0;
+        border: none;
+    }
+
+    .ok-icon {
+        padding: 30.55px 46.08px 32.01px 0;
+    }
+
+    .slitasje-title {
+        padding: 2px 0 5px 0;
+    }
+
+    .ok-icon>svg {
+        width: 60.3px !important;
+        height: 57.44px !important;
+    }
+
+    .slide-icon {
+        padding: 21px 44px 14px 0;
+    }
+
+    .slide-icon>svg {
+        width: 57px !important;
+        height: 57px !important;
+    }
+
+    .crdp-note {
+        padding-top: 9px;
+    }
+
+    .crdp-not-title {
+        display: none;
+    }
+
+    .crdp-status {
+        gap: 10px;
+    }
+
+    .download-main-pan {
+        padding: 39px 10px 14px 10px;
+        flex-direction: column;
+        gap: 29px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .dmp-text {
+        font-size: 20px;
+        text-align: center;
+        line-height: 1.75rem;
+    }
+
+    .dmp-btn-group {
+        gap: 8px;
+    }
+
+    .control-report-pan-bar {
+        display: none !important;
+    }
+
+    .download-pan {
+        padding-top: 0;
+    }
+
+}
+
+@media (max-width:639px) {
+    .testimonials-pan-list {
+        padding-left: 100px;
+    }
+
+}
+
+@media (max-width:615px) {
+    .testimonials-pan-list {
+        padding-left: 140px;
+    }
+
+    .main-footer {
+        flex-direction: column;
+        padding-left: 100px;
+        padding-right: 100px;
+
+    }
+
+    .report-main-infor {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .mmp-product-show-third {
+        display: flex;
+    }
+
+    .re-main-list {
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    .rp-list-pan {
+        justify-content: center;
+        align-items: center;
+        padding: 14px 33.5px;
+        box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+        border-radius: 8px;
+    }
+
+    .re-list-title {
+        padding-bottom: 16px;
+    }
+
+    .report-product-title>p {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .report-product-pan {
+        padding-top: 28px;
+        padding-bottom: 35px;
+    }
+
+    .report-product-title {
+        padding-bottom: 14px;
+    }
+
+    .re-list-title>p {
+        color: #73C018;
+    }
+
+    .responsive-rplist-pan {
+        margin-bottom: 24px;
+    }
+}
+
+@media(max-width:600px) {
+    .about-founder-pan {
+        margin-left: 15%;
+        margin-right: 100px;
+    }
+}
+
+@media (max-width:590px) {
+    .tire-finder-pan {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width:560px) {
+    .responsive-header {
+        padding-right: 80px;
+        padding-left: 65px;
+    }
+
+    .responsive-tire-image {
+        height: 391px;
+    }
+
+    .responsive-image-text-content {
+        padding-top: 130px;
+        padding-left: 64px;
+    }
+
+    .responsive-itc-ad {
+        width: 362.96px;
+        font-size: 24px;
+        line-height: 32px;
+        font-weight: 600;
+    }
+
+    .responsive-itc-text {
+        width: 278.96px;
+        font-size: 14px;
+        line-height: 20px;
+        flex-shrink: 0;
+        font-weight: 400;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .responsive-itc-button {
+        width: 108px;
+        padding: 8px 25px;
+    }
+
+    .responsive-itc-button>div {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+
+    .tcpl-text-big {
+        width: 320px;
+
+    }
+
+    .tcpl-text-large {
+        width: 320px;
+    }
+
+    .tcpl-text-small {
+        width: 320px;
+    }
+
+    .especially-tcplb {
+        margin-top: 35px;
+    }
+
+    .tcp-text {
+        width: 350px;
+    }
+
+    .tcp-title {
+        width: 350px;
+        font-size: 24px;
+    }
+
+    .testimonials-pan-text {
+        width: auto;
+    }
+
+    .guide-pan {
+        padding-left: 80px;
+        padding-right: 80px;
+        gap: 18px;
+        flex-direction: column;
+        padding-top: 32px;
+        padding-bottom: 72px;
+    }
+
+    .gpc-image {
+        width: 400px;
+        height: 220px;
+        margin-bottom: 58px;
+    }
+
+    .gpc-image>img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .gpc-main-text {
+        width: 400px;
+        font-size: 20px;
+        line-height: 1.75rem;
+    }
+
+    .guide-pan-section-list>a {
+        font-size: 16px;
+    }
+
+    .guide-pan-section-list {
+        display: none;
+    }
+
+    .gpc-title>p {
+        font-size: 24px;
+    }
+
+    .gpc-title {
+        padding-bottom: 29px;
+    }
+
+    .guide-pan-section {
+        padding-top: 0px;
+        width: 400px;
+
+    }
+
+    .gpc-extra-text {
+        font-size: 16px;
+        line-height: 1.5rem;
+    }
+
+    .rmi-content-title>p {
+        font-size: 20px;
+    }
+
+    .rmic-text-item>p {
+        font-size: 14px;
+        width: 191px;
+    }
+
+    .rmic-text-item>p>span {
+        font-size: 14px;
+    }
+
+    .rmic-text-item {
+        padding-bottom: 0;
+        gap: 10px;
+    }
+
+    .report-info-logo {
+        width: 95px;
+        height: 52px;
+    }
+
+    .report-info-logo>div {
+        width: 95px !important;
+        height: 52px !important;
+    }
+
+    .report-info-logo>div>img {
+        width: 95px;
+        height: 52px;
+    }
+
+    .report-licenseplate-title>p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width:569px) {
+    .testimonials-pan-list {
+        padding-left: 180px;
+    }
+
+    .about-founder-pan {
+        margin-left: 12%;
+        margin-right: 100px;
+    }
+}
+
+@media (max-width:539px) {
+    .testimonials-pan-list {
+        padding-left: 220px;
+    }
+
+    .gint-input>input {
+        width: 350px;
+    }
+
+    .gint-input {
+        width: 350px;
+    }
+
+    .gint-send-btn {
+        left: 231.06px;
+        height: 55px;
+        width: 119px;
+    }
+
+    .about-founder-pan {
+        width: 75%;
+    }
+}
+
+@media (max-width:520px) {
+    .pdi-info-item-img>svg {
+        width: 70px !important;
+        height: 70px !important;
+    }
+}
+
+@media (max-width:504px) {
+    .about-founder-pan {
+        margin-left: 10%;
+        margin-right: 100px;
+    }
+
+    .guide-pan {
+        padding-left: 30px;
+        padding-right: 80px;
+        gap: 18px;
+        flex-direction: column;
+        padding-top: 32px;
+        padding-bottom: 72px;
+    }
+
+    .gpc-image {
+        width: 400px;
+        height: 220px;
+        margin-bottom: 58px;
+    }
+
+    .gpc-image>img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .gpc-main-text {
+        width: 400px;
+        font-size: 20px;
+        line-height: 1.75rem;
+    }
+
+    .guide-pan-section-list>a {
+        font-size: 16px;
+    }
+
+    .guide-pan-section-list {
+        display: none;
+    }
+
+    .gpc-title>p {
+        font-size: 24px;
+    }
+
+    .gpc-title {
+        padding-bottom: 29px;
+    }
+
+    .guide-pan-section {
+        padding-top: 0px;
+        width: 400px;
+
+    }
+
+    .gpc-extra-text {
+        font-size: 16px;
+        line-height: 1.5rem;
+    }
+}
+
+@media (max-width:497px) {
+    .testimonials-pan-list {
+        padding-left: 260px;
+    }
+
+    .main-footer {
+        flex-direction: column;
+        padding-left: 50px;
+        padding-right: 50px;
+
+    }
+
+    .last-footer {
+        padding-top: 11px;
+        padding-bottom: 11px;
+        padding-left: 69.5px;
+        padding-right: 69.5px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .main-back-pan {
+        gap: 9px;
+    }
+
+    .main-back-title {
+        font-size: 20px;
+    }
+
+    .main-back-url-info>p {
+        font-size: 14px;
+    }
+
+    .main-back-url-info {
+        margin-bottom: 40px;
+    }
+
+    .main-background-image {
+        height: 216px;
+    }
+
+    .about-us-title {
+        padding-top: 0px;
+        padding-bottom: 12px;
+    }
+
+    .about-founder-pan {
+        width: 82%;
+    }
+
+    .about-choose-us {
+        padding: 0px 17px 11px 16px;
+        margin-top: -50px;
+
+    }
+
+    .about-choose-us-title>p {
+        font-size: 24px;
+        line-height: 2rem;
+    }
+
+    .about-choose-us-text>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+        font-style: normal;
+        text-align: justify;
+    }
+
+    .about-choose-us-text {
+        width: 100% !important;
+
+    }
+
+    .psp-title>p {
+        font-size: 24px
+    }
+
+    .price-service-pan {
+        padding-left: 47px;
+        padding-right: 29px;
+        padding-top: 9px;
+        padding-bottom: 29px;
+        gap: 13px;
+    }
+
+    .psp-list-pan {
+        gap: 40px;
+    }
+
+    .price-faqs-pan {
+        padding-top: 8px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-bottom: 33px;
+        gap: 12px;
+    }
+
+    .price-faqs-pan-title>p {
+        font-size: 24px;
+    }
+
+    .collapse-item-header>p {
+        font-size: 16px;
+    }
+
+    .collapse-item-main-content>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .collapse-item-main-content {
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+
+    .collapse-container {
+        gap: 12px;
+    }
+
+    .products-pan-title {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 13px;
+    }
+
+    .ppt-main-title {
+        padding: 0;
+    }
+
+    .ppt-main-title>p {
+        font-size: 30px;
+        line-height: 2.25rem;
+    }
+
+    .ppt-cat-type-title>p {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+}
+
+@media (max-width:476px) {
+    .about-founder-pan {
+        margin-left: 8%;
+        margin-right: 100px;
+    }
+
+    .show-tyre-status-pan {
+        padding-top: 8px;
+    }
+
+    .show-tyre-status-pan-title>p {
+        font-size: 14px;
+        line-height: 1.25em;
+    }
+
+    .show-tyre-status-pan-title {
+        padding-bottom: 7px;
+    }
+
+}
+
+@media (max-width:459px) {
+    .testimonials-pan-list {
+        padding-left: 300px;
+    }
+
+    .guide-pan {
+        padding-left: 30px;
+        padding-right: 80px;
+        gap: 18px;
+        flex-direction: column;
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+
+    .gpc-image {
+        width: 343px;
+        height: 172px;
+        margin-bottom: 18px;
+    }
+
+    .gpc-image>img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .gpc-main-text {
+        width: 343px;
+        font-size: 16px;
+        line-height: 1.5rem;
+    }
+
+    .guide-pan-section-list>a {
+        font-size: 16px;
+    }
+
+    .guide-pan-section-list {
+        display: none;
+    }
+
+    .gpc-title>p {
+        font-size: 20px;
+    }
+
+    .gpc-title {
+        padding-bottom: 13px;
+    }
+
+    .guide-pan-section {
+        padding-top: 0px;
+        width: 343px;
+
+    }
+
+    .gpc-extra-text {
+        font-size: 14px;
+        line-height: 1.25rem;
+    }
+
+    .guide-pan-section-title>p {
+        font-size: 14px;
+    }
+
+
+
+
+}
+
+@media (max-width:449px) {
+    .pp-product-list-mpp-image {
+        width: 331px;
+        height: 312px;
+    }
+    .pp-product-list{
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+    .pp-product-list-mpp-main-info {
+        width: 331px;
+        height: 336px;
+        padding: 11.5px 34px;
+    }
+
+    .pp-product-list-mpp-image-outback>img {
+        width: 176.52px !important;
+        height: 238px !important;
+    }
+
+    .pp-product-list-mmp-exact-info>p {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .pp-product-list-mmp-exact-info {
+        height: auto;
+    }
+
+    .pp-product-list-mmp-figures {
+        margin-top: 28px;
+    }
+
+    .pp-product-list-mmp-figures>p {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .pp-product-list-mmp-show-tyre-infor {
+        margin-top: 19px;
+    }
+
+    .pp-product-list-mmp-show-tyre-infor-detail-svg {
+        padding: 3.99px 4px;
+    }
+
+    .pp-product-list-mmp-show-tyre-infor-detail-svg>svg {
+        width: 24px;
+        height: 24px;
+    }
+
+    .pp-product-list-mmp-show-tyre-infor-detail-figures {
+        padding: 6px 10.5px;
+    }
+
+    .pp-product-list-mmp-price {
+        padding-top: 19px;
+    }
+
+    .pp-product-list-mmp-price>p {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .pp-product-list-mmp-price>span {
+        font-size: 18px;
+        line-height: 1.75rem;
+    }
+
+    .pp-product-list-mmp-btn-group {
+        padding-top: 19px;
+        gap: 6px;
+    }
+
+    .pp-product-list-mmp-btn-group>div {
+        width: 88px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .products-pan {
+        padding-top: 23px;
+        padding-bottom: 118px;
+    }
+}
+
+@media (max-width:442px) {
+    .responsive-header {
+        padding-right: 50px !important;
+        padding-left: 35px !important;
+    }
+
+    .responsive-image-text-content {
+        padding-top: 115px;
+        padding-left: 40px;
+    }
+
+    .responsive-tire-image {
+        height: 391px;
+    }
+
+    .responsive-itc-ad {
+        width: 310.96px;
+        font-size: 24px;
+        line-height: 32px;
+        font-weight: 600;
+    }
+
+    .responsive-itc-text {
+        width: 278.96px;
+        font-size: 14px;
+        line-height: 20px;
+        flex-shrink: 0;
+        font-weight: 400;
+        padding-top: 0;
+        padding-bottom: 18px;
+    }
+
+    .responsive-itc-button {
+        width: 141px;
+        padding: 6px 37.5px;
+    }
+
+    .responsive-itc-button {
+        width: 108px;
+        padding: 8px 25px;
+    }
+
+    .responsive-itc-button>div {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+
+    .responsive-tire-image>img {
+        display: none;
+
+    }
+
+    .responsive-rti-image {
+        display: block !important;
+    }
+
+    .tsi-input-tag {
+        width: 90%;
+        height: 36.95px;
+        left: 36.95px;
+    }
+
+    .passenger-tire-list {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .passenger-tire-title {
+        font-size: 20px;
+        width: 10.5rem;
+        height: auto;
+        display: none;
+    }
+
+    .passenger-tire-text {
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        width: 342px;
+        display: none;
+    }
+
+    .passenger-tire {
+        padding-top: 12px;
+        padding-bottom: 23px;
+    }
+
+    .responsive-passenger-tire-title {
+        display: block !important;
+        font-size: 20px;
+        width: 10.5rem;
+    }
+
+    .responsive-passenger-tire-text {
+        display: block !important;
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        width: 342px;
+    }
+
+    .about-us-text {
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-bottom: 17px;
+    }
+
+    .abp-background-color {
+        width: 343px;
+    }
+
+    .about-founder-pan {
+        margin-left: 11%;
+        margin-right: 100px;
+    }
+
+    .afp-list {
+        width: 260px;
+        padding-left: 14.5px;
+        padding-right: 14.5px;
+    }
+
+    .about-feature-pan {
+        padding-left: 58px;
+        padding-right: 57px;
+    }
+
+    .contact-pan {
+        align-items: flex-start;
+    }
+
+    .contact-pan-content {
+        gap: 24px;
+    }
+
+    .contact-pan-title {
+        text-align: unset;
+        padding-left: 16px;
+        width: 343px;
+    }
+
+    .contact-pan-title>p {
+        font-size: 16px;
+    }
+
+    .cpc-question-title {
+        padding-left: 16px;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .cpc-question-title>p {
+        font-size: 20px;
+        line-height: 1.25rem;
+    }
+
+    .contact-pan {
+        padding-top: 23px;
+        gap: unset;
+        padding-bottom: 63px;
+    }
+
+    .cpc-question {
+        gap: 9px;
+    }
+
+    .cpc-question-contnet {
+        gap: 29px;
+    }
+
+    .cpc-question-content-text>p {
+        font-size: 14px;
+        line-height: 1.25rem;
+        width: 343px;
+    }
+
+    .cpcqc-item-list {
+        gap: 10px;
+    }
+
+    .cpcqc-item-list>p {
+        font-size: 14px;
+    }
+
+    .cpc-infor-input-pan {
+        gap: 20px;
+    }
+
+    .cpc-information-input {
+        gap: 10px;
+    }
+
+    .cpc-infor-confirm-btn {
+        gap: 10px;
+    }
+}
+
+@media(max-width:427px) {
+    .about-founder-pan {
+        width: 83%;
+    }
+}
+
+@media (max-width:413px) {
+    .testimonials-pan-list {
+        padding-left: 340px;
+    }
+
+    .main-footer {
+        flex-direction: column;
+        padding-left: 18px;
+        padding-right: 18px;
+
+    }
+
+    .bar {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+@media (max-width:403px) {
+    .about-founder-pan {
+        width: 87%;
+    }
+
+    .about-founder-pan {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+
+    .guide-pan {
+        padding-left: 16px;
+        padding-right: 16px;
+        gap: 18px;
+        flex-direction: column;
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+
+    .report-licenseplate {
+        margin: 0;
+    }
+}
+
+@media (max-width:375px) {
+    .responsive-header {
+        padding-right: 13px !important;
+        padding-left: 16px !important;
+    }
+
+    .responsive-language {
+        display: flex;
+        margin-right: 14px;
+    }
+
+    .show-nav-bar {
+        display: flex;
+        margin-left: 9px;
+    }
+
+    .header-logo {
+        width: 78px;
+        height: 42px !important;
+    }
+
+    .header-content {
+        padding-top: 44px;
+        padding-bottom: 0;
+    }
+
+    .responsive-image-text-content {
+        padding-top: 111px;
+        padding-left: 14px;
+    }
+
+    .tsg-image>img {
+        width: 316px;
+        height: 113.36px;
+    }
+
+    .service-title {
+        padding-top: 10px;
+        font-size: 18px;
+        text-align: center;
+    }
+
+    .service-text {
+        font-size: 14px;
+    }
+
+    .service-pan {
+        padding-top: 0;
+        padding-bottom: 38px;
+    }
+
+    .responsive-tire-change-human>img {
+        width: 239px;
+        height: 342px;
+    }
+
+    .tcp-text {
+        width: 343px;
+        font-size: 14px;
+    }
+
+    .tcp-title {
+        width: 280px;
+        font-size: 20px;
+    }
+
+    .tire-change-pan {
+        padding-top: 23px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .it-service-pan-list {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    .it-service-cross-bar {
+        left: 74px;
+        width: 700px;
+        top: 58px;
+    }
+
+    .it-service-pan {
+        padding-top: 14px;
+    }
+
+    .it-service-title {
+        font-size: 20px;
+    }
+
+    .it-service-text {
+        font-size: 14px
+    }
+
+    .it-service-pan-list {
+        padding-top: 29px;
+    }
+
+    .get-in-touch {
+        padding: 31px 12px 50px 20px;
+    }
+
+    .gint-title {
+        text-align: start;
+        font-size: 24px;
+    }
+
+    .gint-text {
+        width: 343px;
+        text-align: start;
+        margin-top: 13px;
+    }
+
+    .gint-input {
+        width: 343px;
+        height: 40px;
+        margin-top: 42px;
+    }
+
+    .gint-input>input {
+        width: 343px;
+        height: 40px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    .gint-send-btn {
+        height: 40px;
+        width: 129.51px;
+        left: 213.06px;
+    }
+
+    .contact-info-list {
+        width: 204px;
+    }
+
+    .management-list {
+        width: 109px;
+    }
+
+    .dekkhotell-list {
+        width: 91px;
+    }
+
+    .tyre-shop-list {
+        width: 107px;
+    }
+
+    .management {
+        padding-right: 16px;
+    }
+
+    .dekkhotell {
+        padding-right: 16px;
+    }
+
+    .tyre-shop {
+        padding-right: 0px;
+    }
+
+    .about-founder-pan {
+        width: 90%;
+    }
+
+    .google-image {
+        height: 774px;
+    }
+}
